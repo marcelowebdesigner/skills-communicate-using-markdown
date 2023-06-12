@@ -1,2 +1,2 @@
-### Esta es una imagen de prueba: ###
+## Imagen: ##
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
